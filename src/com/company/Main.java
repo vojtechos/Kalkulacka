@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        /* Naucim se programovani a site */
         Scanner sc = new Scanner(System.in);
         System.out.println("Zadej cislo");
         Double a = sc.nextDouble();
